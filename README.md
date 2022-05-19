@@ -1,156 +1,121 @@
-<p align="center">
-  <img src="https://github.com/Riyanid/Riyanid/blob/main/1.gif" />
-</p> 
+<div align="center">
+<img src="https://i.ibb.co/GMXMx1D/fake.png" alt="fake" border="0">
 
-<p align="center">
-<a href="#"><img title="RUBOTX MULTI DEVICE" src="https://img.shields.io/badge/RUBOTX MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/Riyanid/RubotXmd8"><img title="Colong" src="https://img.shields.io/badge/Colong-RiyanID-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Alphabot-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Alphabot-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Alphabot-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
+# RyuuOfficial
 
-<p align="center">
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#donate">Donate</a>
-</p>
+>
+>
+>
 </div>
+<p align="center">
+  <a href="https://github.com/RyuuOfficial"><img title="Author" src="https://img.shields.io/badge/Author-Ryuu-red.svg?style=for-the-badge&logo=github" /></a>
+  <h4 align="center">
+  <a href="https://wa.me/6282293271747">WHATSAPP</a>
+</h4>
+</p>
 
+## CARA INSTALL DI TERMUX
+```bash
+> pkg install nodejs && pkg install git
+> git clone https://github.com/Hexagonz/SELF-HX
+> cd SELF-HX
+> bash install.sh
+> npm start/node main.js
+```
+## CARA INSTALL DI LAPTOP
+```bash
+> git clone https://github.com/Hexagonz/SELF-HX 
+> cd SELF-HX
+> npm i
+> npm start/node main.js
+```
 
----
-
-## Information
-> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
-
-## Bugs and Tester
-* Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-alpha](https://wa.me/62887435047326)
-
-# Requirements
+# INSTALL
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
 
-# Instalasi
-## Heroku Buildpack
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-## For Termux
-```ts
-termux-setup-storage
-apt update && apt upgrade
-pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riyanid/RubotXmd.git
-cd RubotXmd
-pkg install yarn
-yarn install
-npm i -g typescript
-tsc -p ./node_modules/@adiwajshing/baileys-md/
-rm -rf session.json
-rm -rf store.json
-npm start
-```
+# PIMTUR
 
-## Edit file
-`./settings.js`
-```ts
-global.autoread = false // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+| OWNER |✅|
+| ------------- | ------------- |
+| OFF |✅|
+| ON |✅|
+| STATUS |✅|
 
-// Other
+| MAKER |✅|
+| ------------- | ------------- |
+| STICKER |✅|
+| STICKER GIF |✅|
+| STICKER WM |✅|
+| TAKE STICKER |✅|
+| FDEFACE |✅|
 
-global.botname = "RubotX-Mdོ" //namabot kalian
+| CONVERT |✅|
+| ------------- | ------------- |
+| TOIMG |✅|
+| TOMP3 |✅|
+| TOMP4 |✅|
+| SLOW |✅|
+| FAST |✅|
+| REVERSE |✅|
+| TOURL |✅|
 
-global.ownername= "༄ᶦᶰᵈ᭄Mr.|2!¥απαDΔ࿐" //nama kalian
+| UP STORY |✅|
+| ------------- | ------------- |
+| UPSWTEXT |✅|
+| UPSWIMAGE |✅|
+| UPSWVIDEO  |✅|
 
-global.myweb ="https://rest-api-riyanid.herokuapp.com/" //bebas asal jan hapus
+| FUN |✅|
+| ------------- | ------------- |
+| FITNAH |✅|
+| FITNAH PC |✅|
+| KONTAK |✅|
 
-global.youtube = "https://youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw" //bebas asal jan hapus
 
-global.github = "https://github.com/riyanid/" //bebas
+| TAG |✅|
+| ------------- | ------------- |
+| STICKTAG |✅|
+| HIDETAG |✅|
+| KONTAG |✅|
+| TOTAG |✅|
 
-global.email = "riyanriyanr84@gmail.com" //bebas
+| DOWNLOAD |✅|
+| ------------- | ------------- |
+| YTSEARCH |✅|
+| IGSTALK |✅|
+| PLAY |✅|
+| VIDEO |✅|
+| YTMP3 |✅|
+| YTMP4 |✅|
+| IGDL |✅|
+| FBDL |✅|
+| TIKTOKDL |✅|
+| TIKTOK AUDIO |✅|
+| TWITTER |✅|
+| BRAINLY |✅|
+| IMAGE |✅|
+| ANIME |✅|
 
-global.region = "Indonesia" //bebas
+| OTHER |✅|
+| ------------- | ------------- |
+| SELF |✅|
+| PUBLIC |✅|
+| SET THUMB |✅|
+| SET FAKE IMG |✅|
+| SET TARGET |✅|
+| SET REPLY |✅|
+| PING |✅|
+| JOIN |✅|
+| GET |✅|
+| TERM |✅|
+| X |✅|
 
-global.ownernomer = "6285711450232" // nomor wa kalian
-
-global.ownernomerr = "+6285711450232" //nmr wa kalian
-
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-
-global.background_welcome = "https://telegra.ph/file/42ba3c11e05ac23a66b16.jpg" // maks size 30kb, agar welcome image nya tdk delay
-
-global.owner = ["6285711450232","6285711450232","6285711450232"] //ganti agar fitur owner bisa di gunakan
-
-global.packname = 'RubotXོ' //sticker wm ubah
-
-global.author = 'By R1Y4N4D4' //sticker wm ganti nama kalian
-
-global.sessionName = 'session'
-```
-
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/SdKHkld2NcI)<br>
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
-</p>
-
-## Donate
-- [Saweria](https://saweria.co/Riyanid)
-- [Dana](https://telegra.ph/file/096d42dedcddef8085691.jpg)
-- [Ovo](https://telegra.ph/file/986bb741b0c1f7517972f.jpg)
-- [Qris](https://telegra.ph/file/cb879819dbed154671d86.jpg)
-
-# Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
-
-# Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
----|---
-[Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
-Owner Hisoka-Morou | Constributor |
-<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
-[Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
-Constributor | For Help |
-<a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
-[Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
-For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
-[Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |
-
+  # MAKASIH LORT
+* [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`MhankBarBar`](https://github.com/MhankBarBar)
+* [`MRHRTZ`](https://github.com/MRHRTZ)
+  
+  
